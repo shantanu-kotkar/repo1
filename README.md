@@ -1,2 +1,2 @@
 # repo1
-first repository
+My first repository, which will contain verilog/SystemVerilog and C/C++ projects.
